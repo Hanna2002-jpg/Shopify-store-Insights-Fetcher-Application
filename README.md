@@ -223,11 +223,4 @@ uvicorn main:app --reload --port 8001
 
 MIT License © \[HANNA ANSAR]
 
-```
 
----
-
-If you want, I can also **create a ready-to-use `requirements.txt` and example `.env`** for credentials, so anyone can clone and run your repo immediately without editing code.  
-
-Do you want me to do that next?
-```
