@@ -1,0 +1,1 @@
+# Shopify-store-Insights-Fetcher-Application
